@@ -1,0 +1,42 @@
+{
+    "songName": "sun",
+    "difficulty": "Easy",
+    "notes": [
+        {
+            "time": 0.372,
+            "trackIndex": 1
+        },
+        {
+            "time": 3.367,
+            "trackIndex": 0
+        },
+        {
+            "time": 4.319,
+            "trackIndex": 1
+        },
+        {
+            "time": 5.41,
+            "trackIndex": 3
+        },
+        {
+            "time": 7.105,
+            "trackIndex": 3
+        },
+        {
+            "time": 8.197,
+            "trackIndex": 0
+        },
+        {
+            "time": 12.33,
+            "trackIndex": 3
+        },
+        {
+            "time": 27.307,
+            "trackIndex": 1
+        },
+        {
+            "time": 160.357,
+            "trackIndex": 2
+        }
+    ]
+}

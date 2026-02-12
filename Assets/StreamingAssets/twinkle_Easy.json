@@ -1,0 +1,310 @@
+{
+    "songName": "twinkle",
+    "difficulty": "Easy",
+    "notes": [
+        {
+            "time": 1.788,
+            "trackIndex": 3
+        },
+        {
+            "time": 2.972,
+            "trackIndex": 1
+        },
+        {
+            "time": 4.156,
+            "trackIndex": 3
+        },
+        {
+            "time": 4.76,
+            "trackIndex": 3
+        },
+        {
+            "time": 5.41,
+            "trackIndex": 0
+        },
+        {
+            "time": 6.571,
+            "trackIndex": 1
+        },
+        {
+            "time": 7.175,
+            "trackIndex": 2
+        },
+        {
+            "time": 7.802,
+            "trackIndex": 3
+        },
+        {
+            "time": 8.382,
+            "trackIndex": 2
+        },
+        {
+            "time": 8.986,
+            "trackIndex": 1
+        },
+        {
+            "time": 9.543,
+            "trackIndex": 2
+        },
+        {
+            "time": 11.401,
+            "trackIndex": 3
+        },
+        {
+            "time": 12.585,
+            "trackIndex": 0
+        },
+        {
+            "time": 13.212,
+            "trackIndex": 3
+        },
+        {
+            "time": 14.396,
+            "trackIndex": 0
+        },
+        {
+            "time": 14.977,
+            "trackIndex": 2
+        },
+        {
+            "time": 16.208,
+            "trackIndex": 3
+        },
+        {
+            "time": 16.788,
+            "trackIndex": 1
+        },
+        {
+            "time": 18.019,
+            "trackIndex": 3
+        },
+        {
+            "time": 18.599,
+            "trackIndex": 1
+        },
+        {
+            "time": 19.156,
+            "trackIndex": 2
+        },
+        {
+            "time": 19.807,
+            "trackIndex": 2
+        },
+        {
+            "time": 20.991,
+            "trackIndex": 0
+        },
+        {
+            "time": 21.618,
+            "trackIndex": 0
+        },
+        {
+            "time": 22.198,
+            "trackIndex": 2
+        },
+        {
+            "time": 22.802,
+            "trackIndex": 3
+        },
+        {
+            "time": 23.382,
+            "trackIndex": 1
+        },
+        {
+            "time": 24.009,
+            "trackIndex": 0
+        },
+        {
+            "time": 24.915,
+            "trackIndex": 0
+        },
+        {
+            "time": 25.797,
+            "trackIndex": 1
+        },
+        {
+            "time": 26.355,
+            "trackIndex": 3
+        },
+        {
+            "time": 27.283,
+            "trackIndex": 2
+        },
+        {
+            "time": 27.864,
+            "trackIndex": 0
+        },
+        {
+            "time": 28.793,
+            "trackIndex": 1
+        },
+        {
+            "time": 29.722,
+            "trackIndex": 0
+        },
+        {
+            "time": 30.279,
+            "trackIndex": 3
+        },
+        {
+            "time": 30.859,
+            "trackIndex": 0
+        },
+        {
+            "time": 31.44,
+            "trackIndex": 2
+        },
+        {
+            "time": 32.113,
+            "trackIndex": 3
+        },
+        {
+            "time": 32.972,
+            "trackIndex": 0
+        },
+        {
+            "time": 33.576,
+            "trackIndex": 2
+        },
+        {
+            "time": 34.18,
+            "trackIndex": 3
+        },
+        {
+            "time": 34.807,
+            "trackIndex": 0
+        },
+        {
+            "time": 35.968,
+            "trackIndex": 1
+        },
+        {
+            "time": 36.897,
+            "trackIndex": 0
+        },
+        {
+            "time": 37.477,
+            "trackIndex": 3
+        },
+        {
+            "time": 38.081,
+            "trackIndex": 2
+        },
+        {
+            "time": 38.708,
+            "trackIndex": 0
+        },
+        {
+            "time": 39.311,
+            "trackIndex": 1
+        },
+        {
+            "time": 40.217,
+            "trackIndex": 2
+        },
+        {
+            "time": 40.821,
+            "trackIndex": 2
+        },
+        {
+            "time": 41.68,
+            "trackIndex": 2
+        },
+        {
+            "time": 42.284,
+            "trackIndex": 0
+        },
+        {
+            "time": 43.212,
+            "trackIndex": 1
+        },
+        {
+            "time": 44.118,
+            "trackIndex": 2
+        },
+        {
+            "time": 44.977,
+            "trackIndex": 3
+        },
+        {
+            "time": 45.604,
+            "trackIndex": 3
+        },
+        {
+            "time": 46.486,
+            "trackIndex": 3
+        },
+        {
+            "time": 47.09,
+            "trackIndex": 1
+        },
+        {
+            "time": 47.972,
+            "trackIndex": 2
+        },
+        {
+            "time": 48.901,
+            "trackIndex": 1
+        },
+        {
+            "time": 49.482,
+            "trackIndex": 2
+        },
+        {
+            "time": 50.109,
+            "trackIndex": 2
+        },
+        {
+            "time": 50.712,
+            "trackIndex": 2
+        },
+        {
+            "time": 51.618,
+            "trackIndex": 1
+        },
+        {
+            "time": 52.175,
+            "trackIndex": 1
+        },
+        {
+            "time": 52.779,
+            "trackIndex": 2
+        },
+        {
+            "time": 53.708,
+            "trackIndex": 1
+        },
+        {
+            "time": 54.288,
+            "trackIndex": 2
+        },
+        {
+            "time": 55.171,
+            "trackIndex": 0
+        },
+        {
+            "time": 56.076,
+            "trackIndex": 1
+        },
+        {
+            "time": 56.703,
+            "trackIndex": 2
+        },
+        {
+            "time": 57.307,
+            "trackIndex": 0
+        },
+        {
+            "time": 57.911,
+            "trackIndex": 2
+        },
+        {
+            "time": 58.468,
+            "trackIndex": 0
+        },
+        {
+            "time": 59.373,
+            "trackIndex": 2
+        }
+    ]
+}

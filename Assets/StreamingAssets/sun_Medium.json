@@ -1,0 +1,278 @@
+{
+    "songName": "sun",
+    "difficulty": "Medium",
+    "notes": [
+        {
+            "time": 0.372,
+            "trackIndex": 0
+        },
+        {
+            "time": 1.765,
+            "trackIndex": 2
+        },
+        {
+            "time": 2.624,
+            "trackIndex": 3
+        },
+        {
+            "time": 3.367,
+            "trackIndex": 0
+        },
+        {
+            "time": 4.319,
+            "trackIndex": 0
+        },
+        {
+            "time": 5.41,
+            "trackIndex": 2
+        },
+        {
+            "time": 6.85,
+            "trackIndex": 1
+        },
+        {
+            "time": 8.197,
+            "trackIndex": 2
+        },
+        {
+            "time": 8.893,
+            "trackIndex": 0
+        },
+        {
+            "time": 11.819,
+            "trackIndex": 0
+        },
+        {
+            "time": 12.33,
+            "trackIndex": 2
+        },
+        {
+            "time": 14.327,
+            "trackIndex": 0
+        },
+        {
+            "time": 14.814,
+            "trackIndex": 3
+        },
+        {
+            "time": 15.813,
+            "trackIndex": 3
+        },
+        {
+            "time": 16.556,
+            "trackIndex": 2
+        },
+        {
+            "time": 18.321,
+            "trackIndex": 3
+        },
+        {
+            "time": 19.83,
+            "trackIndex": 3
+        },
+        {
+            "time": 20.317,
+            "trackIndex": 0
+        },
+        {
+            "time": 22.314,
+            "trackIndex": 1
+        },
+        {
+            "time": 23.081,
+            "trackIndex": 3
+        },
+        {
+            "time": 24.335,
+            "trackIndex": 3
+        },
+        {
+            "time": 27.307,
+            "trackIndex": 0
+        },
+        {
+            "time": 29.814,
+            "trackIndex": 1
+        },
+        {
+            "time": 30.302,
+            "trackIndex": 1
+        },
+        {
+            "time": 31.811,
+            "trackIndex": 3
+        },
+        {
+            "time": 32.299,
+            "trackIndex": 0
+        },
+        {
+            "time": 33.553,
+            "trackIndex": 0
+        },
+        {
+            "time": 34.551,
+            "trackIndex": 1
+        },
+        {
+            "time": 35.341,
+            "trackIndex": 0
+        },
+        {
+            "time": 35.805,
+            "trackIndex": 1
+        },
+        {
+            "time": 36.316,
+            "trackIndex": 0
+        },
+        {
+            "time": 37.825,
+            "trackIndex": 3
+        },
+        {
+            "time": 38.313,
+            "trackIndex": 2
+        },
+        {
+            "time": 39.335,
+            "trackIndex": 0
+        },
+        {
+            "time": 40.31,
+            "trackIndex": 1
+        },
+        {
+            "time": 46.301,
+            "trackIndex": 2
+        },
+        {
+            "time": 50.55,
+            "trackIndex": 2
+        },
+        {
+            "time": 52.315,
+            "trackIndex": 1
+        },
+        {
+            "time": 54.335,
+            "trackIndex": 2
+        },
+        {
+            "time": 56.332,
+            "trackIndex": 3
+        },
+        {
+            "time": 63.298,
+            "trackIndex": 0
+        },
+        {
+            "time": 64.319,
+            "trackIndex": 3
+        },
+        {
+            "time": 68.29,
+            "trackIndex": 0
+        },
+        {
+            "time": 72.307,
+            "trackIndex": 2
+        },
+        {
+            "time": 73.816,
+            "trackIndex": 0
+        },
+        {
+            "time": 74.304,
+            "trackIndex": 3
+        },
+        {
+            "time": 75.326,
+            "trackIndex": 2
+        },
+        {
+            "time": 75.813,
+            "trackIndex": 0
+        },
+        {
+            "time": 76.324,
+            "trackIndex": 1
+        },
+        {
+            "time": 77.346,
+            "trackIndex": 0
+        },
+        {
+            "time": 78.089,
+            "trackIndex": 3
+        },
+        {
+            "time": 82.338,
+            "trackIndex": 0
+        },
+        {
+            "time": 85.357,
+            "trackIndex": 1
+        },
+        {
+            "time": 94.319,
+            "trackIndex": 1
+        },
+        {
+            "time": 95.062,
+            "trackIndex": 2
+        },
+        {
+            "time": 96.061,
+            "trackIndex": 3
+        },
+        {
+            "time": 97.059,
+            "trackIndex": 0
+        },
+        {
+            "time": 98.313,
+            "trackIndex": 1
+        },
+        {
+            "time": 99.056,
+            "trackIndex": 0
+        },
+        {
+            "time": 101.309,
+            "trackIndex": 3
+        },
+        {
+            "time": 102.028,
+            "trackIndex": 0
+        },
+        {
+            "time": 110.318,
+            "trackIndex": 2
+        },
+        {
+            "time": 112.06,
+            "trackIndex": 2
+        },
+        {
+            "time": 118.073,
+            "trackIndex": 2
+        },
+        {
+            "time": 126.317,
+            "trackIndex": 0
+        },
+        {
+            "time": 138.321,
+            "trackIndex": 1
+        },
+        {
+            "time": 144.312,
+            "trackIndex": 2
+        },
+        {
+            "time": 160.171,
+            "trackIndex": 1
+        }
+    ]
+}
